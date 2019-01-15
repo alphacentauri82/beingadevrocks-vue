@@ -5,11 +5,13 @@
 
         <div id="wrapper">
             <div id="main">
-
+                
+                <homey></homey>
                 <about></about>
-                <skills></skills>
-                <accomplishments></accomplishments>
-                <contact></contact>
+                <podcasts></podcasts>
+                <talks></talks>
+                <press></press>
+                <projects></projects>
 
             </div>
         </div>
@@ -19,23 +21,27 @@
 </template>
 
 <script>
-import vHeader from '@/components/Header';
-import vFooter from '@/components/Footer';
+import vHeader from "@/components/Header";
+import vFooter from "@/components/Footer";
 
-import About from '@/components/Home/About';
-import Skills from '@/components/Home/Skills';
-import Accomplishments from '@/components/Home/Accomplishments';
-import Contact from '@/components/Home/Contact';
+import Homey from "@/components/Home/Homey";
+import About from "@/components/Home/About";
+import Podcasts from "@/components/Home/Podcasts";
+import Talks from "@/components/Home/Talks";
+import Press from "@/components/Home/Press";
+import Projects from "@/components/Home/Projects";
 
 export default {
-    components: {
-        vHeader,
-        vFooter,
-        About,
-        Skills,
-        Accomplishments,
-        Contact
-    }
+  components: {
+    vHeader,
+    vFooter,
+    Homey,
+    About,
+    Podcasts,
+    Talks,
+    Press,
+    Projects
+  }
 };
 </script>
 
