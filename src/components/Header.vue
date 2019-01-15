@@ -43,14 +43,21 @@ export default {
   },
   methods: {
     scroll(selector) {
-      scrollTo('#' + selector);
+      window.removeEventListener('scroll', this.scrolled);
+
+      scrollTo('#' + selector, 'start', 'smooth');
       this.active = selector;
+
+      setTimeout(() => {
+        window.addEventListener('scroll', this.scrolled);
+      }, 1200);
     },
     scrolled() {
       for (let i = 0; i < this.links.length; i++) {
         const link = this.links[i];
         if (isScrolledIntoView('#' + link.selector)) {
           this.active = link.selector;
+          return;
         }
       }
     }

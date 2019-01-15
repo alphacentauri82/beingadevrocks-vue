@@ -13,12 +13,12 @@ export const isScrolledIntoView = (selector) => {
   return isVisible;
 }
 
-export const scrollTo = (selector, block = 'start') => {
+export const scrollTo = (selector, block = 'start', behavior = 'smooth') => {
   const element = document.querySelector(selector);
   if (!element) return;
 
   element.scrollIntoView({
-    behavior: "smooth",
+    behavior,
     block
   });
 };
