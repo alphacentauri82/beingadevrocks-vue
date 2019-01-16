@@ -1,4 +1,4 @@
-# diana-website
+# Being.A.Dev.Rocks -- Vue
 
 ## Project setup
 ```
