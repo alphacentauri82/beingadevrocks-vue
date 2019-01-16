@@ -1,4 +1,4 @@
-export const isScrolledIntoView = (selector) => {
+export const isScrolledIntoView = selector => {
   const el = document.querySelector(selector);
   if (!el) return false;
 
@@ -11,9 +11,9 @@ export const isScrolledIntoView = (selector) => {
   // Partially visible elements return true:
   const isVisible = elemTop < window.innerHeight && elemBottom >= 0;
   return isVisible;
-}
+};
 
-export const scrollTo = (selector, block = 'start', behavior = 'smooth') => {
+export const scrollTo = (selector, block = "start", behavior = "smooth") => {
   const element = document.querySelector(selector);
   if (!element) return;
 
