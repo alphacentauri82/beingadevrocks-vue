@@ -15,7 +15,7 @@
 								<tr>
 									<td><a href="https://www.meetup.com/vueJsNYC/events/256976538/">VueNYC #18</a> - New York, NY 🇺🇸</td>
 									<td>Debunking Myths: Imposter sindrome <a href="https://slides.com/superdiana/rompiendomitos-4">[slides]</a></td>
-									<td>Jan 26 2019</td>
+									<td>Jan 29 2019</td>
 								</tr>
 								<tr>
 									<td><a href="https://iotdevfest.com/speakers">IOT DevFest</a> - Tempe, AZ 🇺🇸</td>
