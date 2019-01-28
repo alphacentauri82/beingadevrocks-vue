@@ -13,6 +13,15 @@
 							</thead>
 							<tbody>
 								<tr>
+									<td><a href="https://devfestdfw2018.firebaseapp.com/">DevFest DFW '19</a> - Plano, TX 🇺🇸</td>
+									<td>Deployment 101 for Frontenders </td>
+									<td>Feb 16 2019</td>
+						   			</tr>
+								<tr>
+									<td><a href="https://www.meetup.com/NashvilleWomenProgrammers/events/hjsbspyzdbpb/">Nashvile Women Programmers</a> - Nashville, TN 🇺🇸</td>
+									<td>Dockerise your nuxt app like a boss! </td>
+									<td>Feb 11 2019</td>
+								<tr>
 									<td><a href="https://www.meetup.com/vueJsNYC/events/256976538/">VueNYC #18</a> - New York, NY 🇺🇸</td>
 									<td>Debunking Myths: Imposter sindrome <a href="https://slides.com/superdiana/rompiendomitos-4">[slides]</a></td>
 									<td>Jan 29 2019</td>
