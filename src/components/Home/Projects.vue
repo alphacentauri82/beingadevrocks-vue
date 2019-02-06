@@ -23,7 +23,7 @@
             <h4>
               <a
                 href="https://developers.google.com/experts/people/diana-rodriguez"
-              >Google Developer Expert: Web Technologies</a>
+              >Google Developer Expert: Web Technologies, Google Cloud Platform</a>
             </h4>
             <p>Google Developers Experts (GDEs) are a global network of experienced product strategists, designers, developers and marketing professionals actively supporting developers, startups and companies changing the world through web and mobile applications.
               <br>GDEs are experienced, recognized developers of Google technologies as well as outstanding professionals in product strategy, UX/UI, marketing, growth hacking and monetization. They distinguish themselves through frequently speaking at conferences, share their passion and experience by publishing videos and tutorials, writing code samples, mentoring developers and startups and much more. Thanks to their support, developers, high-potential startups and technical communities around the world build and launch highly innovative apps.

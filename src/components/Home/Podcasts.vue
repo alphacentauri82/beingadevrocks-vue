@@ -5,7 +5,7 @@
       <p>Updated as often as possible! 🤪</p>
       <div class="features">
         <article>
-											<a href="https://www.codeprep.io/podcast/007/" class="image"><img src="images/codeprep.png" alt="" /></a>
+											<a href="https://www.codeprep.io/podcast/007/" class="image"><img src="@/assets/images/codeprep.png" alt="" /></a>
 											<div class="inner">
 												<h4><a href="https://www.codeprep.io/podcast/007/">CodePrep #7 Diana Rodriguez</a></h4>
 													<p>In this episode Diana talks about how she started programming and how she started working with DevOps. She talks about her work with Vue Vixens and how the cloud is impacting DevOps today</p>
