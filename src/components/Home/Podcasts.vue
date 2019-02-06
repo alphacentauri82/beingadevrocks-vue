@@ -10,7 +10,7 @@
 												<h4><a href="https://www.codeprep.io/podcast/007/">CodePrep #7 Diana Rodriguez</a></h4>
 													<p>In this episode Diana talks about how she started programming and how she started working with DevOps. She talks about her work with Vue Vixens and how the cloud is impacting DevOps today</p>
 											</div>
-										</article>
+				</article>
         <article>
           <a
             href="https://egghead.io/podcasts/opening-programming-s-gates-to-women-s-communities-with-diana-rodriguez"
