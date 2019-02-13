@@ -13,6 +13,16 @@
 							</thead>
 							<tbody>
 							<tr>
+							<td><a href="https://www.fleurixconf.com/">DevOps Days SLC</a> - Salt Lake City, UT 🇺🇸</td>
+									<td>DevOps + IoT + Security: No Secrets </td>
+									<td>May 14-15 2019</td>
+									</tr>
+								<tr>
+									<td><a href="https://www.fleurixconf.com/">Fleurix Conf Women's conference</a> - Charlotte, NC 🇺🇸</td>
+									<td>DevOps + IoT + Security: No Secrets </td>
+									<td>March 25-27 2019</td>
+								</tr>
+							<tr>
                                 <td><a href="https://vueconf.us//">Vue Conf US</a> - Tampa, FL 🇺🇸</td>
                                 <td>Vue Vixens Skulk</td>
                                 <td>March 25-27 2019</td>
